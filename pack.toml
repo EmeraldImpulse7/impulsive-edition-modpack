@@ -1,0 +1,16 @@
+name = "Minecraft: Impulsive Edition"
+author = "EmeraldImpulse"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ced1900064d35aa7104331fdde1c6c44ab3c20a7a3f2c8398b0a2fd2f520dfbc"
+
+[versions]
+fabric = "0.14.13"
+minecraft = "1.19.3"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2", "1.19.3"]
