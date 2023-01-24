@@ -10,11 +10,6 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
 metafile = true
@@ -22,31 +17,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b379855a3b75007c6548fc27dc2f6ae59e054d09dc77ed3f41aff79f537cc9cc"
-metafile = true
-
-[[files]]
-file = "mods/blanket.pw.toml"
-hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
-metafile = true
-
-[[files]]
-file = "mods/carpet-fixes.pw.toml"
-hash = "02d0411a37057bdb234f75c2063cdcbc3a37b84d8aa3c2f5aa67ec814352accb"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "b019eca1706674644cc8a130b818f827783437943e358e336dfc99f84f1aed01"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
 
 [[files]]
@@ -155,18 +125,8 @@ hash = "851abc5053e70f1ee2859c0cbfd3004f5ff12437164cd4a0a99cefa9531cd6cd"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "ad4a221b5135b6e4fe977e360a60b7df32b33951e510667027d5c3ee986659da"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "65ca41e5e5dfe3034a153e8f050258a7c3e49be09d420eef533ed8ff26edde52"
-metafile = true
-
-[[files]]
-file = "mods/rail-optimization.pw.toml"
-hash = "bedd39d40bbca3d28b26843c6dbd50cef6f890b9cb5cf55f90f031d42493d527"
 metafile = true
 
 [[files]]
@@ -182,11 +142,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "3eb33b43cb00b3bdac6ea2566183b9eb2d4cd30ff22d6d40710dc1a6236ca22e"
-metafile = true
-
-[[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
 
 [[files]]
@@ -212,9 +167,4 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "2269ff794012bd79bfe01ee9815188d45bb3fe964eba30f0cfea4175dbdf42d0"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
